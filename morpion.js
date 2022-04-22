@@ -145,7 +145,6 @@ class Morpion {
     				}
     			});
     		});
-
     		return bestScore;
     	}
 
@@ -161,7 +160,6 @@ class Morpion {
     				}
     			});
     		});
-
     		return bestScore;
     	}
     }
